@@ -20,4 +20,5 @@ This site contains:
 - ✍️ [Blog](blog/)
 
 ## Contact
-- GitHub: https://github.com/mukesh499-ux
+- GitHub: github.com/satya-db-rags
+
